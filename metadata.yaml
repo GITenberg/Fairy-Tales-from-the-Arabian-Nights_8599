@@ -1,0 +1,31 @@
+_repo: Fairy-Tales-from-the-Arabian-Nights_8599
+creator:
+  author:
+    agent_name: Dixon, E.
+    gutenberg_agent_id: '2821'
+    url: http://www.gutenberg.org/2009/agents/2821
+description: ''
+gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Tales -- Arab countries'
+- !lcsh 'Fairy tales -- Arab countries'
+- !lcsh 'Arabs -- Folklore'
+tableOfContents: The King of Persia and the Princess of the Sea -- Prince Beder and
+  the Princess Giauhara -- The three princes and Princess Nouronnihar -- Prince Ahmed
+  and the fairy -- Prince Camaralzaman and the Princess of China -- The loss of the
+  talisman -- The story of Zobeide -- The story of the king's son -- The first voyage
+  of Sinbad the sailor -- The second voyage of Sinbad the sailor -- The third voyage
+  of Sinbad the sailor -- The fourth voyage of Sinbad the sailor -- The fifth voyage
+  of Sinbad the sailor -- The sixth voyage of Sinbad the sailor -- The seventh voyage
+  of Sinbad the sailor.
+title: Fairy Tales from the Arabian Nights
+url: http://www.gutenberg.org/ebooks/8599
