@@ -1,10 +1,16 @@
 _repo: Fairy-Tales-from-the-Arabian-Nights_8599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dixon, E.
     gutenberg_agent_id: '2821'
     url: http://www.gutenberg.org/2009/agents/2821
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8599#Fairy-Tales-from-the-Arabian-Nights
 gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
